@@ -16,10 +16,12 @@ html{
 *, *::before, *::after{ 
 	box-sizing: inherit;
 }
-ol{
+ul{
 	list-style-type: none;
 }
-
+.nav a{
+	display: block;
+}
 .nav a:hover{
 	color: gray;
 }

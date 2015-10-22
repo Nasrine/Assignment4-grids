@@ -20,6 +20,10 @@ ol{
 	list-style-type: none;
 }
 
+.nav a:hover{
+	color: gray;
+}
+
 body{
 margin:0;
 }

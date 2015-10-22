@@ -16,6 +16,9 @@ html{
 *, *::before, *::after{ 
 	box-sizing: inherit;
 }
+ol{
+	list-style-type: none;
+}
 
 body{
 margin:0;
@@ -29,4 +32,10 @@ margin:0;
 .gutter{
 	padding-left: 1.5rem;
 	padding-right: 1.5rem;
+}
+
+@media only screen and (min-width: 25em){
+	li{
+		display: inline-block;
+	}
 }

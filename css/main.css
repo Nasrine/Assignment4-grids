@@ -60,6 +60,12 @@ margin:0;
 	padding-left: 1.5rem;
 	padding-right: 1.5rem;
 }
+.footer{
+	display: inline-block;
+	padding:0;
+}	
+
+
 figcaption{
 	padding: 0.5em;
 }
@@ -69,13 +75,11 @@ figcaption{
 		display: inline-block;
 
 	}
-	.unit footer{
+ul {
 		display: inline-block;
 
 	}
 }
-
-
 
 
 

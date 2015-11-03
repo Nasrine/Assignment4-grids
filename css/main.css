@@ -69,7 +69,9 @@ margin:0;
 figcaption{
 	padding: 0.5em;
 }
-
+.color{
+	background-color: lightgray;
+}
 @media only screen and (min-width: 25em){
 	li{
 		display: inline-block;
